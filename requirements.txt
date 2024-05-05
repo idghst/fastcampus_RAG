@@ -1,0 +1,7 @@
+numpy
+ipykernel
+python-dotenv
+openai
+llama-index
+scikit-learn
+streamlit
